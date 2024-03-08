@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <script type="text/javascript" src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+    <title>Fake News Detection</title>
+</head>
+
+<body style="overflow: scroll;">
+    <div class="form-body">
+        <div class="row">
+            <div class="form-holder">
+                <div class="form-content">
+                    <div class="form-items">
+                            {% if label %}
+                                <h3>Predicted Sentiment: {{ label }}</h3>
+                            {% endif %}
+                        <h3>Twitter Sentiment Analysis</h3>
+                        <form class="requires-validation" novalidate action="/" method="post"
+                            enctype="multipart/form-data">
+
+                            <div class="col-md-12">
+                                <textarea class="form-control" placeholder="Leave the tweet here" id="text" name="text"></textarea>
+                                <br>
+                                <button type="submit" class="btn btn-success">Submit</button>
+                                <br><br>
+                            </div>
+                            </form>
+                            
+                    <!-- <button type="submit" class="btn btn-success">Submit</button> -->
+                    <div class="col-md-12">
+                        <p>Mady By: Khan Faisal</p>
+                        <a href="https://khanfaisal.netlify.app" class="nav-link px-2 text-muted">Portfolio</a>
+                        ><a href="https://www.linkedin.com/in/khanfaisal79960"
+                            class="nav-link px-2 text-muted">Linkedin</a>
+                        ><a href="https://github.com/khanfaisal79960" class="nav-link px-2 text-muted">Github</a>
+                        ><a href="https://medium.com/@khanfaisal79960" class="nav-link px-2 text-muted">Medium</a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+
+</body>
+
+</html>
