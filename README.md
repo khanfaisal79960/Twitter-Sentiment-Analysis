@@ -11,11 +11,11 @@
 <h2>Project Screenshots:</h2>
 
 <img src="https://i.ibb.co/kKwvMgd/Screenshot-2024-03-08-155715.png" alt="project-screenshot" width="640" height="400/">
-*Streamlit Demo*
+<p>Streamlit Demo</p>
 <br><br>
 
 <img src="https://i.ibb.co/2nRK4M1/Screenshot-2024-03-08-155859.png" alt="project-screenshot" width="640" height="400/">
-*Flask Demo*
+<p>Flask Demo</p>
   
   
 <h2>🧐 Features</h2>
