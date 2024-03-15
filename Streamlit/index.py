@@ -55,7 +55,7 @@ text-align: center;
 <p>Developed by Khan Faisal</p><br>
 <a href='https://khanfaisal.netlify.app'>  Portfolio</a>
 <a href="https://github.com/khanfaisal79960">  Github</a>
-<a href="https://medium.com@khanfaisal79960">  Medium</a>
+<a href="https://medium.com/@khanfaisal79960">  Medium</a>
 <a href="https://www.linkedin.com/in/khanfaisal79960">  Linkedin</a>
 </div>
 """
