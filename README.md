@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/khanfaisal79960/Twitter-Sentiment-Analysis/image?description=1&amp;descriptionEditable=Analyse%20Tweets&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit%20Board&amp;theme=Light" alt="project-image"></p>
 
-<p id="description">Embark on a journey through the virtual landscape of emotions with our Twitter Sentiment Analysis project. This innovative initiative delves into the vast realm of social media conversations dissecting tweets to unveil the sentiments that resonate within the digital sphere. By employing advanced natural language processing and machine learning techniques our project not only discerns positive negative and neutral sentiments but also provides a nuanced understanding of the underlying emotions.</p>
+<p id="description">The Twitter Sentiment Analysis project aims to develop a system that analyzes the sentiment of tweets posted on Twitter. By employing natural language processing (NLP) techniques and machine learning algorithms, the system determines whether tweets convey positive, negative, or neutral sentiment. This project finds applications in brand monitoring, public opinion analysis, and social media marketing.</p>
 
 <h2>🚀 Demo</h2>
 
